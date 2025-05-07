@@ -1,0 +1,19 @@
+	 WELCOME TO OUR SHOP
+ Bill Number:53127
+ Customer Name:kkp
+ Phone Number:152789414
+ Email Id:kkp@gmail.com
+ =======================================
+ Products		QTY		Prices
+ =======================================
+  A78_5G		1		17499
+  Fasla		        1		279
+  TufF15		1		47990
+  Arham		        1		242
+  T2x		        1		13950
+
+ =======================================
+ Sub Amount:			Rs.79960.00
+ Tax Amount:			Rs.660.10
+ Total Amount:			Rs.80620.10
+=======================================

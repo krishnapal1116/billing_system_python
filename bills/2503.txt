@@ -1,0 +1,16 @@
+	 WELCOME TO OUR SHOP
+ Bill Number:2503
+ Customer Name:
+ Phone Number:
+ Email Id:
+ =======================================
+ Products		QTY		Prices
+ ======================================= Febq		1		299
+ Febq		1		299
+ Febq		1		299
+
+ =======================================
+ Sub Amount:			Rs.1196.00
+ Tax Amount:			Rs.8.97
+ Total Amount:			Rs.1204.97
+ =======================================

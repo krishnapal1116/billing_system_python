@@ -1,0 +1,18 @@
+	 WELCOME TO OUR SHOP
+ Bill Number:70144
+ Customer Name:K K PAL
+ Phone Number:7894561230
+ Email Id:KKP@gmail.com
+ =======================================
+ Products		QTY		Prices
+ =======================================
+  T2x		1		13950
+  Fasla		1		279
+  Raymond		1		879
+  TufF15		1		47990
+
+ =======================================
+ Sub Amount:			Rs.63098.00
+ Tax Amount:			Rs.151.08
+ Total Amount:			Rs.63249.08
+=======================================

@@ -1,0 +1,9 @@
+	 WELCOME TO OUR SHOP
+ Bill Number:68580
+ Customer Name:
+ Phone Number:
+ Email Id:
+ =======================================
+ Products		QTY		Prices
+ =======================================
+
