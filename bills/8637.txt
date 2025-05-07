@@ -1,0 +1,17 @@
+	 WELCOME TO OUR SHOP
+ Bill Number:8637
+ Customer Name:kkp
+ Phone Number:123456789
+ Email Id:fysdaghsfjf@gmail.com
+ =======================================
+ Products		QTY		Prices
+ =======================================
+  X6		1		21999
+  Arham		1		242
+  Chromebook		1		10990
+
+ =======================================
+ Sub Amount:			Rs.33231.00
+ Tax Amount:			Rs.222.41
+ Total Amount:			Rs.33453.41
+=======================================

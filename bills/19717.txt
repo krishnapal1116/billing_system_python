@@ -1,0 +1,17 @@
+	 WELCOME TO OUR SHOP
+ Bill Number:19717
+ Customer Name:ghgvhfh
+ Phone Number:7894561230
+ Email Id:fjhgvjgb@gmail.com
+ =======================================
+ Products		QTY		Prices
+ =======================================
+  T2x		1		13950
+  Fasla		1		279
+  Chromebook		1		10990
+
+ =======================================
+ Sub Amount:			Rs.25219.00
+ Tax Amount:			Rs.142.29
+ Total Amount:			Rs.25361.29
+=======================================

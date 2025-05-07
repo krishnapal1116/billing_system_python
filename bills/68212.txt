@@ -1,0 +1,16 @@
+	 WELCOME TO OUR SHOP
+ Bill Number:68212
+ Customer Name:
+ Phone Number:
+ Email Id:
+ =======================================
+ Products		QTY		Prices
+ ======================================= Raymond		1		879
+ Raymond		1		879
+
+
+ =======================================
+ Sub Amount:			Rs.2637.00
+ Tax Amount:			Rs.17.58
+ Total Amount:			Rs.2654.58
+ =======================================
